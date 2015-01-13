@@ -1,1 +1,1 @@
-C:\Users\olliketola\Desktop\uutissovekllus\PhoneApp3\UutisSovellus.csproj;neutral
+C:\Users\olliketola\Documents\GitHub\WP8-UutisSovellus\UutisSovellus\PhoneApp3\UutisSovellus.csproj;neutral
